@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**zolwikC/zolwikC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "Job": "Developer",
+  "Name": "Krystian",
+  "Location": "Poland",
+  "Specialization": [
+    "Python",
+    "JavaScript",
+    "C#",
+    "HTML & CSS",
+    "ERP Systems",
+    "Automation & Robotics (FANUC)"
+  ],
+  "Experience": {
+    "ERP Development": "Projektowanie i rozwój systemów ERP z modułami logistyki, produkcji i inżynierii",
+    "Web Development": "Tworzenie aplikacji internetowych w Flask z bazami SQLite",
+    "Educational Apps": "Budowanie aplikacji edukacyjnych (języki, matematyka) z interaktywnym interfejsem i analizą postępów",
+    "Industrial Automation": "Programowanie i obsługa robotów przemysłowych FANUC oraz pras produkcyjnych"
+  },
+  "Strengths": [
+    "Analityczne myślenie",
+    "Rozwiązywanie problemów",
+    "Projektowanie systemów",
+    "Testowanie i dokumentacja ISTQB",
+    "Tworzenie przejrzystych interfejsów"
+  ],
+  "CareerGoal": "Rozwijać się jako Full-Stack Developer, łącząc wiedzę techniczną z kreatywnym podejściem, aby tworzyć rozwiązania wspierające edukację, biznes i przemysł.",
+  "Contact": {
+    "GitHub": "https://github.com/zolwikC"
+  }
+}
