@@ -31,6 +31,9 @@
     "GitHub": "https://github.com/zolwikC"
   }
 }
+
+{
 Demo https://mechanic-words.onrender.com (ang.dla mechanika / narzedziowca)
 Demo https://advanced-math-test.onrender.com (Program do ćwiczeń matematycznych)
 Aktualny projekt SRS Fiszki rozwojowy projekt nauki angielskiego branżowego
+},
