@@ -35,5 +35,9 @@
 {
   "Demo https://mechanic-words.onrender.com (ang.dla mechanika / narzedziowca)"
   "Demo https://advanced-math-test.onrender.com (Program do ćwiczeń matematycznych)"
-  "Aktualny projekt SRS Fiszki rozwojowy projekt nauki angielskiego branżowego", "Gra MMORPG (Massively Multiplayer Online Role Playing Game) to gra komputerowa online, w której setki tysięcy graczy jednocześnie eksplorują wirtualny świat w czasie rzeczywistym, rozwijając swoje postacie i wchodząc w interakcje z innymi."
+    <div>
+          Aktualne projekty:
+                  "Aktualny projekt SRS Fiszki rozwojowy projekt nauki angielskiego branżowego",
+                  "Gra MMORPG (Massively Multiplayer Online Role Playing Game) to gra komputerowa online, w której setki tysięcy graczy jednocześnie eksplorują wirtualny świat w czasie rzeczywistym, rozwijając swoje postacie i wchodząc w interakcje z innymi."
+    </div>
 },
