@@ -37,7 +37,7 @@
   "Demo https://advanced-math-test.onrender.com (Program do ćwiczeń matematycznych)"
     <div>
           Aktualne projekty:
-                  "Aktualny projekt SRS Fiszki rozwojowy projekt nauki angielskiego branżowego",
-                  "Gra MMORPG (Massively Multiplayer Online Role Playing Game) to gra komputerowa online, w której setki tysięcy graczy jednocześnie eksplorują wirtualny świat w czasie rzeczywistym, rozwijając swoje postacie i wchodząc w interakcje z innymi."
+"SRS Fiszki rozwojowy projekt nauki angielskiego branżowego",
+"Gra MMORPG (Massively Multiplayer Online Role Playing Game) to gra komputerowa online, w której setki tysięcy graczy jednocześnie eksplorują wirtualny świat w czasie rzeczywistym, rozwijając swoje postacie i wchodząc w interakcje z innymi."
     </div>
 },
