@@ -38,6 +38,6 @@
     <div>
           Aktualne projekty:
 "SRS Fiszki rozwojowy projekt nauki angielskiego branżowego",
-"Gra MMORPG (Massively Multiplayer Online Role Playing Game) to gra komputerowa online, w której setki tysięcy graczy jednocześnie eksplorują wirtualny świat w czasie rzeczywistym, rozwijając swoje postacie i wchodząc w interakcje z innymi."
+"Gra MMORPG (Massively Multiplayer Online Role Playing Game)"
     </div>
 },
