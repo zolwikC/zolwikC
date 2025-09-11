@@ -37,7 +37,7 @@
   "Demo https://advanced-math-test.onrender.com (Program do ćwiczeń matematycznych)"
     <div>
           Aktualne projekty:
-"SRS Fiszki rozwojowy projekt nauki angielskiego branżowego",
+"SRS Fiszki rozwojowy projekt nauki angielskiego branżowego",  https://srs-fiszki.onrender.com
 "Gra MMORPG (Massively Multiplayer Online Role Playing Game)"
     </div>
 },
