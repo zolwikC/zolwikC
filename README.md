@@ -33,8 +33,8 @@
 }
 
 {
-  "Demo https://mechanic-words.onrender.com (ang.dla mechanika / narzedziowca)"
-  "Demo https://advanced-math-test.onrender.com (Program do ćwiczeń matematycznych)"
+  "Demo https://mechanic-words.onrender.com (ang.dla mechanika / narzedziowca)"  Część modułu srs fiszki
+  "Demo https://advanced-math-test.onrender.com (Program do ćwiczeń matematycznych)"  Część modułu srs fiszki
     <div>
           Aktualne projekty:
 "SRS Fiszki rozwojowy projekt nauki angielskiego branżowego",  https://srs-fiszki.onrender.com
