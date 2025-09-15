@@ -40,4 +40,4 @@
 "SRS Fiszki rozwojowy projekt nauki angielskiego branżowego",  https://srs-fiszki.onrender.com
 "Gra MMORPG (Massively Multiplayer Online Role Playing Game)"
     </div>
-},
+}, 
