@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ```json  
-{
+{ 
   "Job": "Developer",
   "Name": "Krystian",
   "Location": "Poland",
